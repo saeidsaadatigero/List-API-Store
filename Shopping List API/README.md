@@ -1,5 +1,5 @@
 ##saeidsaadatigero@gmail.com
-##a sample shoping list API with Postgresql database for learning
+sample shoping list API with Postgresql database for learning
 
 ## About
 a sample shoping list API with Postgresql database for learning
