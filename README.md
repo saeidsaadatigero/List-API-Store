@@ -1,7 +1,7 @@
-## About
+## Shopping-List-API
 saeidsaadatigero@gmail.com
-a sample shoping list API with Postgresql database.
-I learned and use API of this project
+- A sample shoping list API with Postgresql database.
+- I learned and use API of this project
 ## Features
 The goal of this project is to provide a uniform API for both web and mobile frontend shopping list applications.
 With this API;
