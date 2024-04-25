@@ -1,6 +1,7 @@
 ## About
 saeidsaadatigero@gmail.com
-a sample shoping list API with Postgresql database for learning
+a sample shoping list API with Postgresql database 
+I learn and use API of this project
 ## Features
 The goal of this project is to provide a uniform API for both web and mobile frontend shopping list applications.
 With this API;
